@@ -1,0 +1,19 @@
+{
+    "name": "render-jopl-express",
+    "version": "1.0.0",
+    "description": "JOPL Render deployment example in Express",
+    "main": "app.js",
+    "repository": "https://github.com/triffit/render-jopl-express",
+    "author": "Triffit",
+    "license": "MIT",
+    "private": false,
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.3"
+    },
+    "engines": {
+      "node": ">=14"
+    }
+  }
